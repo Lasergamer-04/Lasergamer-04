@@ -2,6 +2,7 @@
 - Informatics Student
 - working mostly with Python and Web
 - Triathlon Passionate
+- More about me https://lasergamer-04.github.io/CV/CV.html?lang=en
 
 <!---
 Lasergamer-04/Lasergamer-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

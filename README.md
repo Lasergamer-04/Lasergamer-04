@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lasergamer-04
 - Informatics Student
-- working mostly with Python and Web
+- working mostly with Python, HTML, CSS
 - Triathlon Passionate
 - More about me https://lasergamer-04.github.io/CV/CV.html?lang=en
 

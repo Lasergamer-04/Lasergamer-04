@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Run_and_jump](https://github.com/Lasergamer-04/Run_and_jump)
 
-- 🌱 I’m currently learning **more abou JavaScript and C**
+- 🌱 I’m currently learning **more about JavaScript, Java and C**
 
 - 👨‍💻 All of my projects are available at [https://lasergamer-04.github.io/CV/grid.html?lang=en](https://lasergamer-04.github.io/CV/grid.html?lang=en)
 

@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lasergamer-04.github.io/CV/grid.html?lang=en](https://lasergamer-04.github.io/CV/grid.html?lang=en)
 
-- 📫 How to reach me **pablofaivre13@gmail.com**
+- 📫 How to reach me **pablofaivreeipaca@gmail.com**
 
 - 📄 Know about my experiences [https://lasergamer-04.github.io/CV/CV.html?lang=en](https://lasergamer-04.github.io/CV/CV.html?lang=en)
 
